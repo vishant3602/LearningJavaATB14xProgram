@@ -14,14 +14,10 @@ public class Table_Of_9 {
         System.out.println();
         System.out.printf("%dx5=%d",n,n*5);
         System.out.println();
-        System.out.printf("%dx6=%d",n,n*6);
-        System.out.println();
-        System.out.printf("%dx7=%d",n,n*7);
-        System.out.println();
-        System.out.printf("%dx8=%d",n,n*8);
-        System.out.println();
-        System.out.printf("%dx9=%d",n,n*9);
-        System.out.println();
+        System.out.printf("%dx6=%d",n,n*6).println();
+        System.out.printf("%dx7=%d",n,n*7).println();
+        System.out.printf("%dx8=%d",n,n*8).println();
+        System.out.printf("%dx9=%d",n,n*9).println();
         System.out.printf("%dx10=%d",n,n*10);
     }
 }
